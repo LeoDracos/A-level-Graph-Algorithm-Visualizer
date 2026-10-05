@@ -1,3 +1,3 @@
-# A-level-Graph-Algorithm-Visualizer-
+# A-level-Graph-Algorithm-Visualizer
 An interactive C#, WPF application that visualizes Dijkstra's and Prim's algorithms on custon- drawn and generated graphs, featuring user authentication and progress tracking.
 A desktop application built in C# designed to help users interactively learn Further Mathematics decision algorithms. The tool allows users to generate random graphs or draw custom nodes and arcs on a canvas, computing optimal routes and Minimum Spanning Trees using Dijkstra's and Prim's algorithms. It includes a SQL-backed user authentication system to save scores and track learning progress.
